@@ -1,0 +1,23 @@
+[
+    {
+        "title":"One Hundred Years of Solitude",
+        "author":"Gabriel García Márquez",
+        "description":"One Hundred Years of Solitude tells the story of the rise and fall, birth and death of a mythical town of Macondo through the history of the Buendía family. Inventive, amusing, magnetic, sad, alive with unforgettable men and women, and with a truth and understanding that strike the soul.",
+        "pages": 448
+     
+    },
+    {
+        "title":"Serpentine",
+        "author":"Cindy Pon",
+        "description":"SERPENTINE is a sweeping fantasy set in the ancient Kingdom of Xia and inspired by the rich history of Chinese mythology. Lush with details from Chinese folklore, SERPENTINE tells the coming of age story of Skybright, a young girl who worries about her growing otherness.",
+        "pages":300
+     
+    },
+    {
+        "title":"Atomic Habits",
+        "author":"James Clear",
+        "description":"Atomic Habits is the definitive guide to breaking bad behaviors and adopting good ones in four steps, showing you how small, incremental, everyday routines compound into massive, positive change over.",
+        "pages": 256
+     
+    }
+]
