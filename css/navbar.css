@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* Navbar  */
+.logo {
+    margin-right: auto;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    background-color: antiquewhite;
+    max-width: 1000px;
+    padding: 1rem;
+    width: 100%;
+}
+
+ul {
+    display: flex;
+    max-width: 400px;
+    justify-content: space-between;
+}
+
+li {
+    margin-right: 16px;
+    list-style: none;
+    text-decoration: none;
+}
+
+li:hover {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
