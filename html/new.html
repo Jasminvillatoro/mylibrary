@@ -7,6 +7,9 @@
     <title>MyLibrary</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="../css/new.css">
+    <link rel="icon" 
+    type="image/png" 
+    href="../librarylogo.jpg">
 </head>
 <body>
     <div>
@@ -21,5 +24,13 @@
         </ul>
     </nav>
     <h1>New Book Page</h1>
+    <form id="form-new-book"action="POST">
+        <input id="title" type="text" placeholder="Title">
+        <input id="author" type="text" placeholder="Author">
+        <textarea id="description" placeholder="small description"></textarea>
+        <input id="pages" type="number">
+        <button id="submit-book-btn">submit</button>
+    </form>
+    <script src="../javascript/new.js"></script>
 </body>
 </html>
