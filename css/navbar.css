@@ -13,12 +13,13 @@ body {
 /* Navbar  */
 .logo {
     margin-right: auto;
+    color: #fff;
 }
 
 header {
     display: flex;
     align-items: center;
-    background-color: antiquewhite;
+    background-color: rgb(54, 50, 45);
     max-width: 1000px;
     padding: 1rem;
     width: 100%;
@@ -42,4 +43,5 @@ li:hover {
 
 a {
     text-decoration: none;
+    color: #fff;
 }
